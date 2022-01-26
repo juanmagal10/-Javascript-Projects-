@@ -1,0 +1,98 @@
+{
+  "projectName": "Traduccion",
+  "projectOwner": "You-Dont-Know-JS-ES",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "EstebanMarin",
+      "name": "EstebanMarin",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/13613037?v=4",
+      "profile": "https://github.com/EstebanMarin",
+      "contributions": [
+        "code",
+        "doc",
+        "infra",
+        "test"
+      ]
+    },
+    {
+      "login": "mballeng91",
+      "name": "Miguel Ballén",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7406472?v=4",
+      "profile": "https://github.com/mballeng91",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Zenfeuer",
+      "name": "Darwing Hernández",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1877244?v=4",
+      "profile": "https://github.com/Zenfeuer",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "usedtobeme",
+      "name": "Ivan Amortegui",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/2787465?v=4",
+      "profile": "https://github.com/usedtobeme",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Polcran",
+      "name": "Polcran",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/28151395?v=4",
+      "profile": "https://github.com/Polcran",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "jlcasasg",
+      "name": "Jess Casas",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/15127221?v=4",
+      "profile": "https://github.com/jlcasasg",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "giovanymoreno",
+      "name": "Gio",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1443557?v=4",
+      "profile": "http://www.linkedin.com/in/giovanymoreno",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "damorenon",
+      "name": "damorenon",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6466028?v=4",
+      "profile": "https://github.com/damorenon",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "SamuelVera",
+      "name": "SamuelVera",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/35410087?v=4",
+      "profile": "https://github.com/SamuelVera",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}

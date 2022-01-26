@@ -1,0 +1,13 @@
+.contenedor2{
+    background: #332912;
+    padding:30px;
+}
+
+.input-de-prueba{
+
+    border:1px dashed #441166;
+    border: radius 5px;
+    padding: 6px;
+    color:#333;
+    outline: none;
+}
